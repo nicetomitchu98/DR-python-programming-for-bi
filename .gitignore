@@ -1,1 +1,6 @@
 .env
+/project
+LSEG_fields2.0.py
+LSEG_fields.py
+/Successful extraction archive
+DR_project copy.ipynb
