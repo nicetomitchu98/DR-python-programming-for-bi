@@ -1,0 +1,47 @@
+,RIC,DTSubjectName,DBSTicker,CouponRate,MaturityDate,IssueDate,ISIN,RCSCurrencyLeaf,RCSCountryLeaf,DbTypeDescription,InstrumentTypeDescription,RCSBondGradeLeaf,MaturityStandardYield,MaturityCorpMacDuration,MaturityCorpModDuration,IsCallable,IndustrySubSectorDescription,Price,PricingTradeDate
+0,NO0010786288=,"Norway, Kingdom Of (Government)",NORWAY,1.75,2027-02-17,2017-02-17,NO0010786288,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.475805,0.783333,0.756613,False,Sovereign,97.91,2026-05-01
+1,NO0010821598=,"Norway, Kingdom Of (Government)",NORWAY,2.0,2028-04-26,2018-04-26,NO0010821598,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.614443,1.9549,1.911299,False,Sovereign,95.17,2026-05-01
+2,NO0010844079=,"Norway, Kingdom Of (Government)",NORWAY,1.75,2029-09-06,2019-03-06,NO0010844079,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.594938,3.227579,3.155888,False,Sovereign,91.38,2026-05-01
+3,NO0010875230=,"Norway, Kingdom Of (Government)",NORWAY,1.375,2030-08-19,2020-02-19,NO0010875230,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.56699,4.142544,4.051071,False,Sovereign,87.813,2026-05-01
+4,NO0010930522=,"Norway, Kingdom Of (Government)",NORWAY,1.25,2031-09-17,2021-02-17,NO0010930522,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.47125,5.163288,5.051588,False,Sovereign,84.924,2026-05-01
+5,NO0012440397=,"Norway, Kingdom Of (Government)",NORWAY,2.125,2032-05-18,2022-02-16,NO0012440397,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.445564,5.574683,5.454754,False,Sovereign,87.944,2026-05-01
+6,NO0012712506=,"Norway, Kingdom Of (Government)",NORWAY,3.5,2042-10-06,2022-10-06,NO0012712506,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.462802,12.232147,11.968008,False,Sovereign,88.95,2026-05-01
+7,NO0012837642=,"Norway, Kingdom Of (Government)",NORWAY,3.0,2033-08-15,2023-02-15,NO0012837642,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.396221,6.462024,6.324499,False,Sovereign,91.454,2026-05-01
+8,NO0013148338=,"Norway, Kingdom Of (Government)",NORWAY,3.625,2034-04-13,2024-02-13,NO0013148338,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.390702,6.996399,6.847683,False,Sovereign,94.958,2026-05-01
+9,NO0013238246=,"Norway, Kingdom Of (Government)",NORWAY,3.625,2039-05-31,2024-05-31,NO0013238246,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.466782,10.14362,9.924391,False,Sovereign,91.79,2026-05-01
+10,NO0013475558=,"Norway, Kingdom Of (Government)",NORWAY,3.75,2035-06-12,2025-02-12,NO0013475558,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.403238,7.576187,7.414702,False,Sovereign,95.184,2026-05-01
+11,NO0013583377=,"Norway, Kingdom Of (Government)",NORWAY,0.0,2026-06-17,2025-06-18,NO0013583377,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bill,,4.097728,0.116667,0.116116,False,Sovereign,99.528,2026-05-01
+12,NO0013660423=,"Norway, Kingdom Of (Government)",NORWAY,0.0,2026-09-16,2025-09-17,NO0013660423,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bill,,4.33247,0.363889,0.358267,False,Sovereign,98.455,2026-05-01
+13,NO0013708610=,"Norway, Kingdom Of (Government)",NORWAY,0.0,2026-12-16,2025-12-17,NO0013708610,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bill,,4.395767,0.613889,0.597823,False,Sovereign,97.383,2026-05-01
+14,NO0013713123=,"Norway, Kingdom Of (Government)",NORWAY,4.125,2036-06-03,2026-02-03,NO0013713123,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,Investment Grade,4.432392,8.331171,8.152455,False,Sovereign,97.573,2026-05-01
+15,NO0013737973=,"Norway, Kingdom Of (Government)",NORWAY,0.0,2027-03-17,2026-03-18,NO0013737973,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bill,,4.533765,0.866667,0.834028,False,Sovereign,96.234,2026-05-01
+16,NO1079129=,Faroe Islands (Government),,2.7,2032-05-03,2017-05-03,NO0010791296,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Bond,,4.705905,5.588317,5.46129,False,Sovereign,89.73,2026-05-01
+17,,Norges Bank,NRGBK,0.0,2026-06-11,2026-05-15,NO0013741009,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+18,,Norges Bank,NRGBK,0.0,2026-06-18,2026-05-21,NO0013741017,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+19,,Norges Bank,NRGBK,0.0,2026-06-25,2026-05-28,NO0013741025,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+20,,Norges Bank,NRGBK,0.0,2026-07-02,2026-06-04,NO0013741041,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+21,,Norges Bank,NRGBK,0.0,2026-07-09,2026-06-11,NO0013741058,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+22,,Norges Bank,NRGBK,0.0,2026-07-23,2026-06-25,NO0013741074,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+23,,Norges Bank,NRGBK,0.0,2026-08-13,2026-07-16,NO0013741116,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+24,,Norges Bank,NRGBK,0.0,2026-08-20,2026-07-23,NO0013741140,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+25,,Norges Bank,NRGBK,0.0,2026-08-27,2026-07-30,NO0013741165,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+26,,Norges Bank,NRGBK,0.0,2026-09-17,2026-08-20,NO0013741199,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+27,,Norges Bank,NRGBK,0.0,2026-09-24,2026-08-27,NO0013741215,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+28,,Norges Bank,NRGBK,0.0,2026-09-24,2026-07-02,NO0013741082,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+29,,Norges Bank,NRGBK,0.0,2026-10-01,2026-09-03,NO0013741223,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+30,,Norges Bank,NRGBK,0.0,2026-10-08,2026-09-10,NO0013741231,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+31,,Norges Bank,NRGBK,0.0,2026-10-15,2026-09-17,NO0013741249,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+32,,Norges Bank,NRGBK,0.0,2026-10-22,2026-09-24,NO0013741264,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+33,,Norges Bank,NRGBK,0.0,2026-10-22,2026-07-30,NO0013741157,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+34,,Norges Bank,NRGBK,0.0,2026-10-29,2026-10-01,NO0013741272,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+35,,Norges Bank,NRGBK,0.0,2026-11-05,2026-10-08,NO0013741280,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+36,,Norges Bank,NRGBK,0.0,2026-11-12,2026-10-15,NO0013741298,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+37,,Norges Bank,NRGBK,0.0,2026-11-19,2026-10-22,NO0013741314,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+38,,Norges Bank,NRGBK,0.0,2026-11-19,2026-08-27,NO0013741207,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+39,,Norges Bank,NRGBK,0.0,2026-12-03,2026-11-05,NO0013741330,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+40,,Norges Bank,NRGBK,0.0,2026-12-10,2026-11-12,NO0013741348,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+41,,Norges Bank,NRGBK,0.0,2026-12-17,2026-09-24,NO0013741256,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+42,,Norges Bank,NRGBK,0.0,2027-01-04,2026-12-03,NO0013741389,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+43,,Norges Bank,NRGBK,0.0,2027-01-07,2026-12-10,NO0013741397,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+44,,Norges Bank,NRGBK,0.0,2027-01-14,2026-10-22,NO0013741306,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
+45,,Norges Bank,NRGBK,0.0,2027-01-28,2027-01-04,NO0013741447,Norwegian Krone,Norway,Govt/Treasury/Central Bank,Certificate of Deposit,,,,,False,Agency,,
